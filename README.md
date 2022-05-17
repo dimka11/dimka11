@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Jupyter notebooks:
+
 https://github.com/dimka11/ipynbs
