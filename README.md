@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [Russian resume](https://github.com/dimka11/Curriculum-vitae/blob/main/resume.pdf)
 
-(Jupyter notebooks)[https://github.com/dimka11/ipynbs]
+[Jupyter notebooks](https://github.com/dimka11/ipynbs)
 
 [Image style transfer with telegram bot and frontend](https://github.com/dimka11/NST_practice)
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 __________________
 
 
-[Автогенератор мерча по бренду](https://github.com/dimka11/merch-autogenerator)
+(Автогенератор мерча по бренду)[https://github.com/dimka11/merch-autogenerator]
 
 [Вездекод - computer vision][https://github.com/dimka11/vezdecod_cv]
 
