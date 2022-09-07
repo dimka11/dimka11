@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 __________________
 
 
-[Автогенератор мерча по бренду][https://github.com/dimka11/merch-autogenerator)
+[Автогенератор мерча по описанию](https://github.com/dimka11/merch-autogenerator)
 
 [Вездекод - computer vision](https://github.com/dimka11/vezdecod_cv)
 
