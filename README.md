@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[CV](https://github.com/dimka11/Curriculum-vitae/edit/main/README.md)
+[Russian resume](https://github.com/dimka11/Curriculum-vitae/blob/main/resume.pdf)
+
 Jupyter notebooks:
 
 https://github.com/dimka11/ipynbs
